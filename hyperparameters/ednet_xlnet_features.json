@@ -1,0 +1,13 @@
+{
+    "median_pause": true,
+    "num_backward": true,
+    "num_forward": false,
+    "num_pause": false,
+    "replay_length": true,
+    "seg_rep_60": false,
+    "skipped_length": true,
+    "tags": true,
+    "time_comp": true,
+    "time_played": false,
+    "time_spent": false
+}

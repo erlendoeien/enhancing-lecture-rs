@@ -1,0 +1,17 @@
+{
+    "avg_speed": false,
+    "concepts": false,
+    "eff_speed": false,
+    "fields": true,
+    "median_pause": true,
+    "num_backward": true,
+    "num_forward": false,
+    "num_pause": false,
+    "replay_length": true,
+    "seg_rep_60": false,
+    "skipped_length": false,
+    "std_speed": true,
+    "time_comp": false,
+    "time_played": true,
+    "time_spent": false
+}

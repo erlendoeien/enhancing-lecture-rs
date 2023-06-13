@@ -1,0 +1,23 @@
+{
+    "aggregated_projection": false,
+    "continuous_projection": true,
+    "d_model": 192,
+    "dropout": 0.0,
+    "gradient_accumulation_steps": 1,
+    "input_dropout": 0.1,
+    "item_id_embedding_dim": 448,
+    "item_id_embedding_init_std": 0.01,
+    "label_smoothing": 0.2,
+    "layer_norm_eps": 1.0427874422865455e-07,
+    "learning_rate": 0.0006867844635841642,
+    "mlm_probability": 0.30000000000000004,
+    "n_head": 2,
+    "n_layer": 5,
+    "other_embedding_init_std": 0.06,
+    "per_device_train_batch_size": 64,
+    "pretrained_embeddings": true,
+    "soft_embedding_cardinality_default": 25,
+    "soft_embedding_dim_default": 25,
+    "trainable": false,
+    "weight_decay": 3.1127944680786474e-08
+}

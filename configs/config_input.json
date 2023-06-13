@@ -1,0 +1,31 @@
+{
+    "masking": "mlm",
+    "post": [
+        "layer-norm"
+    ],
+    "aggregation": "concat",
+    "item_id_embedding_dim": {
+        "min": 64,
+        "max": 512,
+        "step": 64,
+        "type_": "int"
+    },
+    "input_dropout": {
+        "min": 0.0,
+        "max": 0.5,
+        "step": 0.1,
+        "type_": "float"
+    },
+    "item_id_embedding_init_std": {
+        "min": 0.01,
+        "max": 0.15,
+        "step": 0.02,
+        "type_": "float"
+    },
+    "mlm_probability": {
+        "min": 0.0,
+        "max": 0.7,
+        "step": 0.1,
+        "type_": "float"
+    }
+}

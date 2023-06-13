@@ -1,0 +1,25 @@
+{
+    "shuffle": true,
+    "learning_rate": "optimal",
+    "verbose": 1,
+    "random_state": 1448183,
+    "early_stopping": false,
+    "warm_start": false,
+    "alpha": {
+        "min": 1e-07,
+        "max": 10,
+        "type_": "float",
+        "log": true
+    },
+    "penalty": [
+        "l1",
+        "l2",
+        "elasticnet"
+    ],
+    "max_iter": {
+        "min": 18.0,
+        "max": 43.0,
+        "step": 1,
+        "type_": "int"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "d_model": 192,
+    "dropout": 0.0,
+    "gradient_accumulation_steps": 1,
+    "input_dropout": 0.1,
+    "item_id_embedding_dim": 192,
+    "item_id_embedding_init_std": 0.06999999999999999,
+    "label_smoothing": 0.2,
+    "layer_norm_eps": 1.2423930285006272e-07,
+    "learning_rate": 0.0021542078471103307,
+    "mlm_probability": 0.30000000000000004,
+    "n_head": 2,
+    "n_layer": 1,
+    "per_device_train_batch_size": 128,
+    "weight_decay": 9.861100157513542e-08
+}

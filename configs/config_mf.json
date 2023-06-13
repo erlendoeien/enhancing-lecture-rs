@@ -1,0 +1,21 @@
+{
+    "factors": {
+        "min": 64,
+        "max": 1024,
+        "type_": "int",
+        "log": true
+    },
+    "iterations": {
+        "min": 1,
+        "max": 200,
+        "type_": "int",
+        "step": 1
+    },
+    "regularization": {
+        "min": 1e-07,
+        "max": 10,
+        "type_": "float",
+        "log": true
+    },
+    "random_state": 379
+}

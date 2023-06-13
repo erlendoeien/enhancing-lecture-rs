@@ -1,0 +1,13 @@
+{
+    "distance": [
+        "cosine",
+        "tfidf",
+        "bm25"
+    ],
+    "K": {
+        "min": 5,
+        "max": 2048,
+        "type_": "int",
+        "log": true
+    }
+}

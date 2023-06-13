@@ -1,0 +1,10 @@
+{
+    "continuous_projection": [
+        false,
+        true
+    ],
+    "aggregated_projection": [
+        false,
+        true
+    ]
+}
